@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Join Our Telegram", t.me/Star_Flix_Official
+https://t.me/Star_Flix_Official
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Kolkata", Jolsha Movies SD
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-3 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Kolkata", Jolsha Movies HD
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Kolkata", Star Jolsha
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Kolkata", Zee Bangla
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Kolkata", Colors Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Kolkata", Colors Bangla Cinema
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Kolkata", Sony Aath
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Kolkata",  Enter 10 
+https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Kolkata", Sananda Tv
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Kolkata", Sun Bangla Cinema
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+
+#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Kolkata", Sun Bangla
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Kolkata", Zee Bangla Cinema
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-14 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Kolkata", Star Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Kolkata", Bangla Plus 
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-16 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Kolkata", Amar Bangla 
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+
+#EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Kolkata",  Amar Bangla Digital
+https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+
+#EXTINF:-18 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Kolkata", Tara Bangla Cinema
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-19 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Kolkata", Ruposhi Bangla
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
