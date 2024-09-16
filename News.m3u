@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official 
+https://t.me/Star_Flix_Official.m3u8
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", Somoy
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-3 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Jamuna
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", ATN
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Independent
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Dbc
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Channel 24
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", News 24
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  71 News
+https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Kolkata", Kolkata Tv
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Kolkata", TV 9 Bangla
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
