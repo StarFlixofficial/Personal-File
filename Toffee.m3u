@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://example.com/channel2.png" group-title="Toffee", Toffee Movie
-#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 
