@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://example.com/channel1.png" group-title="Entertainment", Channel 1
+http://example.com/channel1.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel2.png" group-title="Entertainment", Channel 2
+http://example.com/channel2.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel3.png" group-title="News", Channel 3
+http://example.com/channel3.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel4.png" group-title="News", Channel 4
+http://example.com/channel4.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel5.png" group-title="Sports", Channel 5
+http://example.com/channel5.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel6.png" group-title="Sports", Channel 6
+http://example.com/channel6.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel7.png" group-title="Movies", Channel 7
+http://example.com/channel7.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel8.png" group-title="Movies", Channel 8
+http://example.com/channel8.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel9.png" group-title="Kids", Channel 9
+http://example.com/channel9.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel10.png" group-title="Kids", Channel 10
+http://example.com/channel10.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel11.png" group-title="Documentary", Channel 11
+http://example.com/channel11.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel12.png" group-title="Documentary", Channel 12
+http://example.com/channel12.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel13.png" group-title="Music", Channel 13
+http://example.com/channel13.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel14.png" group-title="Music", Channel 14
+http://example.com/channel14.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel15.png" group-title="Lifestyle", Channel 15
+http://example.com/channel15.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel16.png" group-title="Lifestyle", Channel 16
+http://example.com/channel16.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel17.png" group-title="Travel", Channel 17
+http://example.com/channel17.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel18.png" group-title="Travel", Channel 18
+http://example.com/channel18.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel19.png" group-title="Science", Channel 19
+http://example.com/channel19.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+
+#EXTINF:-1 tvg-logo="https://example.com/channel20.png" group-title="Science", Channel 20
+http://example.com/channel20.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
