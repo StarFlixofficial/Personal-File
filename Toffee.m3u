@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png" group-title="Toffee", BAN vs IND VIP
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://example.com/channel2.png" group-title="Entertainment", Channel 2
 http://example.com/channel2.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
