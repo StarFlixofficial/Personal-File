@@ -15,70 +15,61 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Toffee Sports
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-6
-tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", WWE
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-6 tvg-id="" tvg-name="T Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",T Sports
+http://opplextv.cyou:8080/live/773199/626227/167590.ts|Referer=http://xtv.ooo:8080/live/76223335/53332267/167590.m3u8
 
-#EXTINF:-7
-tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Willow
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-7 tvg-id="" tvg-name="Sony Sports Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sony Sports Ten 1
+http://opplex.tv:8080/live/nazrul763/77547647/167570.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", Sky Sports
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-8 tvg-id="" tvg-name="Sony Sports Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sony Sports Ten 2
+http://opplex.tv:8080/live/nazrul763/77547647/109984.ts|Referer=http://opplextv.cyou:8080/live/773199/626227/167571.ts
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  Sony Live 
-https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+#EXTINF:-9 tvg-id="" tvg-name="Sony Sports Ten 3" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sony Sports Ten 3
+http://opplex.tv:8080/live/nazrul763/77547647/167572.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", A Sports
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-10 tvg-id="" tvg-name="Sony Sports Ten 4" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sony Sports Ten 4
+http://xtv.ooo:8080/global/global/167595.m3u8
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sports 18
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-11 tvg-id="" tvg-name="Sony Sports Ten 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sony Sports Ten 5
+http://xtv.ooo:8080/live/76223335/53332267/167580.m3u8
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Ten Sports
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-12 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Star Sports 1 HD
+http://xtv.ooo:8080/live/76223335/53332267/167575.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", P Sports
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-13 tvg-id="" tvg-name="Star Sports 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Star Sports 2 FHD
+http://xtv.ooo:8080/live/76223335/53332267/167576.m3u8
 
-#EXTINF:-14 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Sports 1
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-14 tvg-id="" tvg-name="Star Sports 3" tvg-logo="https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Star Sports 3
+http://xtv.ooo:8080/global/global/167577
 
-#EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Star sports 2 
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-15 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Star Sports Select 1
+http://opplex.tv:8080/live/nazrul763/77547647/167578.m3u8
 
-#EXTINF:-16 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", Star Sports 3 
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-16 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Star Sports Select 2
+http://opplex.tv:8080/live/nazrul763/77547647/167579.m3u8
 
-#EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  Star Sports 4 
-https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+#EXTINF:-17 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/TNT%20SPORTS%202.jpg" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",TNT Sports 2
+http://opplex.tv:8080/live/nazrul763/77547647/206566.m3u8
 
-#EXTINF:-18 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Sony Sports 1
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-18 tvg-id="" tvg-name="Sports 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Sports 18
+http://opplextv.cyou:8080/live/773199/626227/302600.ts
 
-#EXTINF:-19 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sony Sports 2
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-19 tvg-id="" tvg-name="A Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",A Sports
+http://xtv.ooo:8080/live/global/global/219689.m3u8
 
-#EXTINF:-20 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Sony Sports 3
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-20 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Astro Cricket
+http://xtv.ooo:8080/live/global/global/352083.m3u8
 
-#EXTINF:-21 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Sony Sports 4
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-21 tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",PTV SPORTS HD
+http://opplex.tv:8080/live/nazrul763/77547647/217968.m3u8
 
-#EXTINF:-22 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Sony Sports 5
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-22 tvg-id="" tvg-name="FOX SPORTS 501" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",FOX SPORTS 501
+http://xtv.ooo:8080/live/global/global/348210.m3u8
 
-#EXTINF:-23 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", TNT Sports 1
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-23 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",SKY SPORTS CRICKET
+http://xtv.ooo:8080/live/global/global/167594.m3u8
 
-#EXTINF:-24 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", TNT Sports 2
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-24 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" tvg-chno="" group-title="𝗦𝗣𝗢𝗥𝗧𝗦",Ten Sports
+http://opplextv.cyou:8080/live/773199/626227/167569.ts
 
-#EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", TNT Sports 3
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-26 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", TNT Sports 4
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
-#EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", TNT Sports 5
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-25 tvg-id="" tvg-name="Super Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png" tvg-chno="" group-title="𝗦
