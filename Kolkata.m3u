@@ -12,13 +12,13 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/pr8n4bqj/20240715-092546.png"group-title="Kolkata", Star Jolsha
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Kolkata", Zee Bangla
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Zee%20Bangla%20.png"group-title="Kolkata", Zee Bangla
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Kolkata", Colors Bangla
+#EXTINF:-6 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Colors%20Bangla%20.png"group-title="Kolkata", Colors Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Kolkata", Colors Bangla Cinema
+#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Colors%20Bangla%20Cinema%20.png"group-title="Kolkata", Colors Bangla Cinema
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Kolkata", Sony Aath
