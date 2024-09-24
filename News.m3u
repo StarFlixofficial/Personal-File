@@ -5,9 +5,6 @@ https://t.me/Star_Flix_Official
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="𝗡𝗘𝗪𝗦",Somoy News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",ATN Music
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-
 #EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="𝗡𝗘𝗪𝗦",ATN News
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
@@ -43,3 +40,6 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=93z1f0zv&e=.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="𝗡𝗘𝗪𝗦",Republic Bangla TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=d60o0c54&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
+#EXTINF:-1 tvg-id="e181c0f8" tvg-name="Kolkata News" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-.TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",Kolkata News
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
