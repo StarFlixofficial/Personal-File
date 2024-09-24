@@ -6,14 +6,14 @@ https://t.me/Star_Flix_Official.m3u8
 #EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", B TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-3 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", B TV World
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-3 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Bangladesh",BTV World HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-4 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", B TV Chottogram
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-4 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Bangladesh",BTV Chattogram
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Sangsad
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-5 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Bangladesh",Sangsad Television
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Maasranga
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
@@ -27,8 +27,8 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", Mohona Tv
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-10 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Bangladesh",Mohona TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Nan Tv
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
@@ -39,50 +39,50 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bijoy Tv
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="𝗡𝗘𝗪𝗦",Deepto TV HD
+#EXTINF:-14 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-16 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", Anondo Tv
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-16 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Bangladesh",Ananda TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  My Tv
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-18 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", Channel 9
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-18 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Bangladesh",Channel 9 HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-19 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Channel I
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-19 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Bangladesh",Channel I HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-20 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Bangla Vision
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-20 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Bangladesh",Bangla Vision HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Bangla Tv
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-22 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", N Tv
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-22 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Bangladesh",NTV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-23 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", R Tv
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-23 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Bangladesh",RTV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-24 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Boishakhi Tv
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-24 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Bangladesh",Bioshakhi TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Desh Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Asian
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-26 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Bangladesh",Asian TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=66c4b0b8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Golobal
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Atn Bangla
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-28 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Bangladesh",ATN Bangla HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-29 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Nexus
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -96,11 +96,14 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-32 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Ekhon Tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-33 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Sa.Tv
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-33 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Bangladesh",SATV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-34 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Me Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-35 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Kasba Tv
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-36 tvg-id="tn1z61cp" tvg-name="Bangla TV Europe" tvg-logo="https://i.postimg.cc/LXVzLXy5/Bangla-TV-Europe.png" tvg-chno="31" group-title="Bangladesh",Bangla TV Europe
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=tn1z61cp&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
