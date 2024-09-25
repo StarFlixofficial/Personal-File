@@ -1,47 +1,46 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
 https://t.me/Star_Flix_Official
 
-#EXTINF:-2 tvg-logo="https://i.postimg.cc/6QZCwP7Y/20240917-001319.png"group-title="Bangladesh", Duronto
+#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Duronto%20.png"group-title="Bangladesh", Duronto
 https://youtu.be/5vsOv_bcnhs?si=Jc-SEEwRxBQGiFn_.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="Bangladesh", Maasranga
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Khushbu
+#EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Khushboo%20Bangla%20.png"group-title="Bangladesh", Khushbu
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Kolkata", Nick
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20.png"group-title="Kolkata", Nick
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
 #EXTINF:-6 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Kolkata", Sony Aath
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Nick Jr.
+#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20Jr%20.png"group-title="India", Nick Jr.
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", Wow
+#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Wow%20.png"group-title="India", Wow
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India", Pogo
+#EXTINF:-9 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Pogo%20.png"group-title="India", Pogo
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Sony Yay
+#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sony%20Yay%20.png"group-title="India", Sony Yay
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-11 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Sonic
+#EXTINF:-11 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Sonic%20.png"group-title="India", Sonic
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Hungama
+#EXTINF:-12 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Hungama%20.png"group-title="India", Hungama
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="India", Disney+
+#EXTINF:-13 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dishni%20.png"group-title="India", Disney+
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-14 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Discovery
+#EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Dicecovary%20.png"group-title="India", Discovery
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Cartoon Network 
+#EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Catron%20Network%20.png"group-title="India", Cartoon Network 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
