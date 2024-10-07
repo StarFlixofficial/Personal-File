@@ -46,7 +46,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-16 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Bangladesh",Ananda TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=jvYQG7Xh8f3ipl1rS7yorw&expires=1728493113&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  My Tv
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
@@ -76,7 +76,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8|Referer=https://
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-26 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Bangladesh",Asian TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=66c4b0b8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=WlHx8ZBe2zFUC6V9WOuRgw&expires=1728493130&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-27 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Golobal
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
