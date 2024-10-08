@@ -4,7 +4,7 @@
 https://t.me/Star_Flix_Official.m3u8
 
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/T%20Sports%20.png"group-title="Bangladesh", T Sports
-https://ekusheyserver.com/etvlivesn.m3u8
+http://172.16.29.242:8080/hls/tsportshdL.m3u8
 
 #EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Bangladesh/Nagorik%20Tv%20.png"group-title="Bangladesh", Nagorik
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
@@ -31,7 +31,7 @@ https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-11 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sports%2018%20.png"group-title="India", Sports 18
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+http://172.16.29.242:8080/hls/sports18.m3u8
 
 #EXTINF:-12 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Ten Sports
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -40,10 +40,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
 #EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%201.png"group-title="India", Star Sports 1
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+http://172.16.29.242:8080/hls/ssports1hd.m3u8
 
 #EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%202.png"group-title="India", Star sports 2 
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+http://172.16.29.242:8080/hls/ssports2hd.m3u8
 
 #EXTINF:-16 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Star%20Sports%203%20.png"group-title="India", Star Sports 3
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -52,10 +52,10 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 
 #EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%201%20.png"group-title="India", Sony Sports 1
-https://ekusheyserver.com/etvlivesn.m3u8
+http://172.16.29.242:8080/hls/sonyten1.m3u8
 
 #EXTINF:-19 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%202%20.png"group-title="India", Sony Sports 2
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+http://172.16.29.242:8080/hls/sonyten2.m3u8
 
 #EXTINF:-20 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Sports%203%20.png"group-title="India", Sony Sports 3
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -80,3 +80,9 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 
 #EXTINF:-27 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%205%20.png"group-title="India", TNT Sports 5
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%203%20.png"group-title="India", Star Sports Select 1
+http://172.16.29.242:8080/hls/sss1.m3u8
+
+#EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/TNT%20Sports%204%20.png"group-title="India", Star Sports Select 2
+http://172.16.29.242:8080/hls/sss2.m3u8
