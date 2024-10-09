@@ -25,7 +25,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/KYyt2YdY/20240715-092345.png"group-title="Kolkata",  Enter 10 
-https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sananda%20Cinema%20.png"group-title="Kolkata", Sananda Tv
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
@@ -37,7 +37,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-13 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata", Zee Bangla Cinema
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Star%20Bangla%20.png"group-title="Kolkata", Star Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
