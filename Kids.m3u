@@ -10,7 +10,7 @@ http://172.16.29.242:8080/hls/duronto.m3u8
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
 #EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Khushboo%20Bangla%20.png"group-title="Bangladesh", Khushbu
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kids/Nick%20.png"group-title="Kolkata", Nick
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
