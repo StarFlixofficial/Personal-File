@@ -25,7 +25,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="India",  B4u Movie
-https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="India", Colors Cineplex
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -41,11 +41,11 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 
 #EXTINF:-14
 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="India", Star Gold Romance
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+http://103.84.57.155:8000/play/a0c7/index.m3u8
 
 #EXTINF:-15
 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="India", Star Gold Thrills
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+http://103.84.57.155:8000/play/a0c7/index.m3u8
 
 #EXTINF:-16 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="India", BBO 
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -57,7 +57,7 @@ https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-19 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", Star Movie
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", Star Movie Select
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -72,7 +72,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-24 tvg-logo="https://i.ibb.co/ZMr2t3c/image-search-1714239185884.png"group-title="India", HBO
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
 #EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="India", HBO Max
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
