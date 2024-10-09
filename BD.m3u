@@ -46,10 +46,10 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-16 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Bangladesh",Ananda TV
-https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=jvYQG7Xh8f3ipl1rS7yorw&expires=1728493113&user=d477246e9e724f81a011b847457e71c4
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:-17 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  My Tv
-https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+https://mytvbangla.com/0.m3u8
 
 #EXTINF:-18 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Bangladesh",Channel 9 HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
