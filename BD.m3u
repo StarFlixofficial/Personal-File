@@ -19,7 +19,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=BfWX076M3_iSttnwh00waQ&expires=1728493686&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Movie Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -40,7 +40,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-14 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
@@ -94,7 +94,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Ekhon Tv
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-33 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Bangladesh",SATV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
