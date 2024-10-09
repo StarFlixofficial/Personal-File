@@ -7,7 +7,7 @@ https://t.me/Star_Flix_Official
 http://172.16.29.250/hls/jalshamovies.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/xjbHcMnd/20240715-093517.png"group-title="Kolkata", Jolsha Movies HD
-https://worker-snowy-star-d9d6.1doi3.workers.dev/http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
 
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/pr8n4bqj/20240715-092546.png"group-title="Kolkata", Star Jolsha
 http://172.16.29.242:8080/hls/sjolshahd.m3u8
@@ -22,7 +22,7 @@ http://172.16.29.242:8080/hls/colorsbhd.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sony%20Aath%20.png"group-title="Kolkata", Sony Aath
-https://sliv.drmlive.in/2011641/SonyAathSD/hdntl=exp=1728572714~acl=%2f*~id=1556784483112233~data=hdntl~hmac=7716f5b1b86d702c2fe3da4cf0dbe21f86fc2d43902ae923d3170bbee00f9975/master_900.m3u8?aka_me_session_id=AAAAAAAAAAAq7QdnAAAAAIHNlaci1Kdzzs+AtZwdpr0iQHCiPPraGnYsoqs2Km2fGGzoTPdltOmmpqBDSo1w%2fgXxchqyjuoo&aka_media_format_type=hls
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/KYyt2YdY/20240715-092345.png"group-title="Kolkata",  Enter 10 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
