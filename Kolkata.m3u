@@ -22,7 +22,7 @@ http://172.16.29.242:8080/hls/colorsbhd.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Kolkata/Sony%20Aath%20.png"group-title="Kolkata", Sony Aath
-https://sliv.drmlive.in/2011641/SonyAathSD/master.m3u8
+https://sliv.drmlive.in/2011641/SonyAathSD/hdntl=exp=1728572714~acl=%2f*~id=1556784483112233~data=hdntl~hmac=7716f5b1b86d702c2fe3da4cf0dbe21f86fc2d43902ae923d3170bbee00f9975/master_900.m3u8?aka_me_session_id=AAAAAAAAAAAq7QdnAAAAAIHNlaci1Kdzzs+AtZwdpr0iQHCiPPraGnYsoqs2Km2fGGzoTPdltOmmpqBDSo1w%2fgXxchqyjuoo&aka_media_format_type=hls
 
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/KYyt2YdY/20240715-092345.png"group-title="Kolkata",  Enter 10 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
