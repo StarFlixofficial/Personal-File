@@ -7,7 +7,7 @@ https://t.me/Star_Flix_Official
 http://172.16.29.250/hls/jalshamovies.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/xjbHcMnd/20240715-093517.png"group-title="Kolkata", Jolsha Movies HD
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+https://worker-snowy-star-d9d6.1doi3.workers.dev/http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
 
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/pr8n4bqj/20240715-092546.png"group-title="Kolkata", Star Jolsha
 http://172.16.29.242:8080/hls/sjolshahd.m3u8
