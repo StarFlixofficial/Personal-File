@@ -1,63 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://example.com/channel2.png" group-title="Toffee", Toffee Movie
-#EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1726813102:KeyName=prod_live_events:Signature=DiiWLTp4vJiHrcwUll9SrDicp7QND9_vCeyEKa1E2x4bAtlrE7pXWTZginjwU3TCI5U2nMWtkEFXSpr6uIQQBw",
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
 
-#EXTINF:-1 tvg-logo="https://example.com/channel2.png" group-title="Entertainment", Channel 2
-http://example.com/channel2.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=zee_bangla
 
-#EXTINF:-1 tvg-logo="https://example.com/channel3.png" group-title="News", Channel 3
-http://example.com/channel3.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png", Zee Bangla Cinema VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=zee_bangla_cinema
 
-#EXTINF:-1 tvg-logo="https://example.com/channel4.png" group-title="News", Channel 4
-http://example.com/channel4.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sony_entertainment
 
-#EXTINF:-1 tvg-logo="https://example.com/channel5.png" group-title="Sports", Channel 5
-http://example.com/channel5.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sony_max
 
-#EXTINF:-1 tvg-logo="https://example.com/channel6.png" group-title="Sports", Channel 6
-http://example.com/channel6.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=b4u_movies
 
-#EXTINF:-1 tvg-logo="https://example.com/channel7.png" group-title="Movies", Channel 7
-http://example.com/channel7.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U Music VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=b4umusic
 
-#EXTINF:-1 tvg-logo="https://example.com/channel8.png" group-title="Movies", Channel 8
-http://example.com/channel8.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_drama
 
-#EXTINF:-1 tvg-logo="https://example.com/channel9.png" group-title="Kids", Channel 9
-http://example.com/channel9.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_movie
 
-#EXTINF:-1 tvg-logo="https://example.com/channel10.png" group-title="Kids", Channel 10
-http://example.com/channel10.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
+#EXTINF:-1 group-title="Toffee(Himel-Op)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sports_highlights
 
-#EXTINF:-1 tvg-logo="https://example.com/channel11.png" group-title="Documentary", Channel 11
-http://example.com/channel11.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel12.png" group-title="Documentary", Channel 12
-http://example.com/channel12.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel13.png" group-title="Music", Channel 13
-http://example.com/channel13.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel14.png" group-title="Music", Channel 14
-http://example.com/channel14.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel15.png" group-title="Lifestyle", Channel 15
-http://example.com/channel15.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel16.png" group-title="Lifestyle", Channel 16
-http://example.com/channel16.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
 
-#EXTINF:-1 tvg-logo="https://example.com/channel17.png" group-title="Travel", Channel 17
-http://example.com/channel17.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
-
-#EXTINF:-1 tvg-logo="https://example.com/channel18.png" group-title="Travel", Channel 18
-http://example.com/channel18.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
-
-#EXTINF:-1 tvg-logo="https://example.com/channel19.png" group-title="Science", Channel 19
-http://example.com/channel19.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
-
-#EXTINF:-1 tvg-logo="https://example.com/channel20.png" group-title="Science", Channel 20
-http://example.com/channel20.m3u8?cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724501306:KeyName=prod_linear:Signature=jqiehqWnlczsW4vhB3ndyCqAfZbkqC6Dfd0HUerOJCZwqQVwAGN7NspFvUmucd3wXU4I47igVdrMAa3PVlbaBQ
