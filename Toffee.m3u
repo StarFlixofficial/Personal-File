@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Toffee", Toffee Movie
-https://ekusheyserver.com/etvlivesn.m3u8
+https://stream.imotv.online/toffe/live.php?id=99cf56ce2888&e=.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Toffee", Toffee Drama
-https://ekusheyserver.com/etvlivesn.m3u8
+https://stream.imotv.online/toffe/live.php?id=b1ba8efdd99d&e=.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Toffee", Toffee Sports
-https://ekusheyserver.com/etvlivesn.m3u8
+https://stream.imotv.online/toffe/live.php?id=9cc74d11cfd0&e=.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Toffee", Zee Bangla
 https://ekusheyserver.com/etvlivesn.m3u8
