@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
 https://t.me/Star_Flix_Official
 
-#EXTINF:-2 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.digit.in%2FOTT%2Fv2%2Fimages%2Ftoofan-1526960.jpg&tbnid=BbQyK51fPGyXrM&vet=1&imgrefurl=https%3A%2F%2Fwww.digit.in%2Fdigit-binge%2Fmovies%2Ftoofan-838823.html&docid=sSuIi97yRF2iDM&w=600&h=900&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=a1c70be888e0f228&shem=abme%2Ctrie"group-title="Bangladesh", Rajkumar_New_Bangla_Movie_(2024)
+#EXTINF:-0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.digit.in%2FOTT%2Fv2%2Fimages%2Ftoofan-1526960.jpg&tbnid=BbQyK51fPGyXrM&vet=1&imgrefurl=https%3A%2F%2Fwww.digit.in%2Fdigit-binge%2Fmovies%2Ftoofan-838823.html&docid=sSuIi97yRF2iDM&w=600&h=900&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=a1c70be888e0f228&shem=abme%2Ctrie"group-title="Bangladesh", Rajkumar_New_Bangla_Movie_(2024)
 https://delivery-node-xx4qamnghxb6avj4.voe-network.net/engine/hls2-c/01/11686/yihxsajayfhh_,n,.urlset/master.m3u8?t=e0N7bHALcMfHx_husiAKLgqJrMj9kO2I058FWq-f1s8&s=1726866578&e=14400&f=58431790&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=103.177&sp=2500&asn=149053
 
-#EXTINF:-3 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZDg1MTlkMWYtYjk2ZC00ZmVhLWFiYTItNTgyM2M3YWZlNmQ2XkEyXkFqcGc%40._V1_.jpg&tbnid=3zDZe57e7uB3dM&vet=1&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt27651767%2F&docid=muSfbxTeal16CM&w=3264&h=1831&itg=1&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=916ee6a0b65a1895&shem=abme%2Ctrie"group-title="Bangladesh", Lider_Ami_Bangladesh_New_Bangla-Movie_(2024)
+#EXTINF:-0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZDg1MTlkMWYtYjk2ZC00ZmVhLWFiYTItNTgyM2M3YWZlNmQ2XkEyXkFqcGc%40._V1_.jpg&tbnid=3zDZe57e7uB3dM&vet=1&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt27651767%2F&docid=muSfbxTeal16CM&w=3264&h=1831&itg=1&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=916ee6a0b65a1895&shem=abme%2Ctrie"group-title="Bangladesh", Lider_Ami_Bangladesh_New_Bangla-Movie_(2024)
 https://pa1054do.cloudatacdn.com/u5kjxvh5fpclsdgge7n6o3q6iwp53xloqsvfp2nmqnqatyde2orxevji35uq/lxbs327uzu~7xjJjQjNJT?token=0dco1pevw50h6seeb6rug8bw&expiry=1726990671571
 
-#EXTINF:-4 tvg-logo="https://i1.sndcdn.com/artworks-6JmyVyAhYK0HO5W0-QlD2tg-t500x500.png"group-title="Bangladesh", Tofan_New_Bangla_Movie_(2024)
+#EXTINF:-0 tvg-logo="https://i1.sndcdn.com/artworks-6JmyVyAhYK0HO5W0-QlD2tg-t500x500.png"group-title="Bangladesh", Tofan_New_Bangla_Movie_(2024)
 https://6i0f2riqeyuq4.cdn-jupiter.com/hls2/01/04937/uylj0k6kjs8i_n/master.m3u8?t=y1uKn2qu9uXv2Jsi3MgvtqHbWR6AzC4vMpuOHPYZDcA&s=1728565485&e=129600&f=24688179&srv=l1fuya2iqm5y&i=0.4&sp=500&p1=l1fuya2iqm5y&p2=l1fuya2iqm5y&asn=58715
+
+#EXTINF:-0 tvg-logo="https://i1.sndcdn.com/artworks-6JmyVyAhYK0HO5W0-QlD2tg-t500x500.png"group-title="Bangladesh", Golui_New_Bangla_Movie_(2022)
+https://cdn.bandhon.com.bd/download/bangladeshi_movie/2022/Golui%20(2022)/Golui%20(2022)%20WEBDL-1080p.mp4
