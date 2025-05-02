@@ -18,7 +18,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"group-title="Bangladesh", Maasranga
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=BfWX076M3_iSttnwh00waQ&expires=1728493686&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-7 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Movie Bangla
+#EXTINF:-7 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png"group-title="Bangladesh", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
