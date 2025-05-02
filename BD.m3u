@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q42PxLH/Starflix-Logo.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
 https://t.me/Star_Flix_Official.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="Bangladesh", B TV
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png"group-title="Bangladesh", B TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-3 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Bangladesh",BTV World HD
