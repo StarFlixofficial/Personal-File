@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q42PxLH/Starflix-Logo.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
-https://t.me/Star_Flix_Official.m3u8
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282015%29/Jamai%20420%20%282015%29%20720p/Jamai.420.2015.Bengali.720p.HoiChoi.WEB-DL.x264.AAC-BHD.mkv
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/800px-Bangladesh_Television_Logo.svg.png"group-title="Bangladesh", B TV
 https://ekusheyserver.com/etvlivesn.m3u8
